@@ -1,4 +1,4 @@
-# Hi I'm Lorik Kelmendi
+# <h1 align="center">Hi 👋, I'm Lorik</h1>
 # 💫 About Me:
 Currently pursuing a Bachelor of Engineering in Software and Computers at FIEK University of Prishtina. I actively engage in self-directed learning, immersing myself in online courses and practical experiences to deepen my understanding of Cyber Security principles and Linux systems. I am always eager to learn new technologies and collaborate with diverse teams.
 
