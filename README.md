@@ -4,10 +4,10 @@ Currently pursuing a Bachelor of Engineering in Software and Computers at FIEK U
 
 
 ## 🌐 Socials:
+[![Google Cyber](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://www.credly.com/badges/90d3eb8b-1c16-47ed-bf73-2a7c2625bf1f)
+[![CISCO](https://img.shields.io/badge/CISCO%20Certificate-8A2BE2.svg?logo=linkedin&logoColor=white)](https://www.credly.com/badges/2968469d-10e5-4021-9c20-6041a9fe8892)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lorikkelmendi_)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lorik-kelmendi-07122003-shigjetari/) 
-[![CISCO](https://img.shields.io/badge/CISCO%20Certificate-8A2BE2.svg?logo=linkedin&logoColor=white)](https://www.credly.com/badges/2968469d-10e5-4021-9c20-6041a9fe8892)
-[![CISCO](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://www.credly.com/badges/90d3eb8b-1c16-47ed-bf73-2a7c2625bf1f)
 
 
 # 💻 Tech Stack:
